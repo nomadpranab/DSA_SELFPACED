@@ -18,7 +18,7 @@ int main()
     }
     arr[index]=n;
 
-    for(int i=0;i<n;i++)
+    for(int i=0;i<=n-1;i++)
     {
         cout<<arr[i];
     }
