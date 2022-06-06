@@ -1,11 +1,12 @@
 #include<iostream>
-#include <bits/stdc++.h>
 using namespace std;
 
 int main()
 {   
-    int n;
+    
     int pos;
+    int n;
+    
     
     int arr[5]={1,2,7,4};
     cout<<"Enter position to insert"<<endl;
@@ -31,6 +32,7 @@ int main()
         cout<<arr[i];
     }
 
+    return 0;
     
     
 }
