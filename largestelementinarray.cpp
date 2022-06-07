@@ -20,5 +20,5 @@ int main()
         }
     }
 
-    cout<<"Largest element is"<<max;
+    cout<<"Largest element is "<<max;
 }
