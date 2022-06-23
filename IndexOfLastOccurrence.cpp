@@ -7,7 +7,7 @@ int main()
     {
         if(arr[i]==1)
         {
-            cout<<i<<" ";
+            cout<<i<<"  ";
             break;
         }
     }
